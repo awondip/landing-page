@@ -12,8 +12,9 @@
 .content{
     width: 1290px;
     height: 500px;
-    background-image: url(/image/restaurant.jpg);
+    background-image: url( https://awondip.github.io/image/restaurant.jpg);
     opacity: 10px;
+    background-size: cover;
 
 }
 .menu {
