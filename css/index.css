@@ -1,0 +1,200 @@
+.project {
+    background-image: ;
+}
+.header {
+    font-size: 30px;
+    font-weight: bold;
+    color:white;
+    justify-content: start;
+    margin-left: 100px;
+    
+}
+.content{
+    width: 1290px;
+    height: 500px;
+    background-image: url(/image/restaurant.jpg);
+    opacity: 10px;
+
+}
+.menu {
+    display: flex;
+    justify-content: center;
+}
+ul {
+    justify-content: flex-end;
+    margin-left: 480px;
+}
+ul li  {
+   display: inline-block;
+   color: white;
+   font-family: Arial,  sans-serif;
+}
+ul li a {
+    text-decoration: none;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+ul li a:hover {
+    color: black ;
+    background-color:black;
+}
+.container {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row ;
+    justify-content: space-between;
+    margin-left: 105px;
+    
+}
+.left {
+    justify-content: space-evenly;
+
+}
+.left-content {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    color: white;
+    
+}
+.btn {
+    border-radius: 8px;
+    background-color:orangered;
+    color: whitesmoke;
+    font-size: 20px;
+    padding:5 5px;
+    width: 100px;
+    height: 40px;
+}
+.right-content {
+    
+    width: 500px;
+    height: 200px;
+    margin-right: 100px;
+    
+}
+.content-2, .{
+    width: 1200px;
+    height: 500px;
+    margin: 40px;
+}
+.head-1 {
+    font-size: 20px;
+    font-weight: bold;
+    justify-content: center;
+    flex-direction: row;
+    margin-left: 500px;
+}
+.boxes {
+    display: flex ;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 50px;
+    
+
+}
+.box-1 {
+    border: 4px solid blueviolet;
+    border-radius: 10px;
+    font-size: 20xpx;
+    width: 130px;
+    height: 100px;
+    padding: 5px;
+    
+
+}
+.box-2 {
+    font-size: 100px;
+    padding: 30px;
+}
+.head-1 {
+    font-size: 60px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+.text {
+    font-size: 20px;
+    align-content: center;
+    padding: 12px;
+    margin-left: 20px;
+    justify-content: center;
+}
+.content-3 {
+    width: 1290px;
+    height: 400px;
+    background-color: hsl(0, 16%, 37%);
+    text-align: center;
+}
+.t-1 {
+    margin-top: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    align-items: center;
+    padding: 90px;
+}
+.t-2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    align-items: center;
+    margin-top: 20px;
+}
+.content-4 {
+    width: 1000px;
+    height: 200px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-top: 50px;
+    
+}
+.info {
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+    color: white;
+
+}
+.btn-1 {
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    padding: 10px;
+    background-color: blueviolet;
+    color: white;
+    margin: 15px;
+    border-color: white;
+
+}
+.display {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.content-5 {
+    width: 1290px;
+    height: 200px;
+    margin-top: 100px;
+    background-color: rgb(85, 71, 71);
+
+}
+.end {
+    text-align: center;
+}
+.footer {
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    padding-top: 90px;
+}
+
+
