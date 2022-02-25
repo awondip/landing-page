@@ -1,5 +1,5 @@
 .project {
-    background-image: ;
+    background-image: 
 }
 .header {
     font-size: 30px;
@@ -10,11 +10,12 @@
     
 }
 .content{
-    width: 1290px;
+    width: 1298px;
     height: 500px;
-    background-image: url("https://awondip.github.io/image/restaurant.jpg");
-    opacity: 10px;
+    background-image: url("https://images.pexels.com/photos/11236669/pexels-photo-11236669.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 
 }
 .menu {
@@ -80,6 +81,7 @@ ul li a:hover {
     width: 1200px;
     height: 500px;
     margin: 40px;
+    margin-top: 30px;
 }
 .head-1 {
     font-size: 20px;
